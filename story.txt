@@ -1,6 +1,15 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1 | You are walking in a forest and find a cave. Do you enter (left) or walk past it (right)? | 2 | 3
+2 | You enter the cave and find a large room with a hole in the floor and a ladder going up. Do you go down the hole (left) or go up the ladder (right)?  | 4 | 5
+3 | You keep going and find a tunnel in a tree? Do you go through the tunnel (left) or keep going (right) | 6 | 7
+4 | You enter a small room with a chest in the middle. Do you open the chest (left) or keep going (right) | 8 | 9
+5 | You go up the ladder and find a room with a giant emerald on a pedestal. Do you take the emerald (left) or keep going (right)? | 13 | 14
+6 | You go in the tunnel and find a chest. Do you open the chest (left) or keep going (right)? | 10 | 11
+7 | You keep going and find a clear patch with a chest illuminated by sunlight. Do you open the chest (left) or keep going (right)? | 8 | 12
+8 | You open the chest. It was a mimic. You died | -1 | -1
+9 | You keep going and find a staircase. You go up it and exit the cave | -1 | -1
+10 | You open the chest. You find a huge pile of gold! | -1 | -1
+11 | You keep going. You step on a tile that sinks. The walls start moving in. You died. | -1 | -1
+12 | You keep going and exit the forest. | -1 | -1
+13 | You take the emerald off the pedestal. Do you keep going (left) or exit the cave (right)? | 14 | 15
+14 | You keep going. You enter a room with a dragon. The dragon kills you | -1 | -1
+15 | You exit the cave with your new emerald. | -1 | -1
